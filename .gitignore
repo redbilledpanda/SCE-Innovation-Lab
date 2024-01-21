@@ -4,3 +4,6 @@ Solution_1.ipynb
 Solution_2.ipynb
 assets/data/output_actual
 utils.py
+*.*~
+*.swo
+*.swp
